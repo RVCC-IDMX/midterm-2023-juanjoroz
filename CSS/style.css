@@ -76,13 +76,13 @@ header {
 }
 
 #reviews div {
-    padding: 1rem;
+    padding: 0.5rem;
     max-width: 40rem;
     margin: 0 auto;
 }
 
 #reviews div p {
-    padding: 0.5rem ;
+    padding: 0.1rem ;
 }
 
 #reviews div p:nth-child(1n+1):first-letter {
